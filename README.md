@@ -188,7 +188,8 @@ Please do not disturb the admin unless you have a special need. Thank you!
 
 <p align="center">
   <a href="https://chat.whatsapp.com/BfoNOzVBODtEYPCoKxsBbf🫶">
-    <img alt="WhatsApp" href="https://m.me/100001039692046">
+    <img alt="WhatsApp" 
+href=https://whatsapp.com/channel/0029Vb7UQUH8V0tmC5Yvy121">
     <img alt="Messenger" src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white">
   </a>
 </p>
