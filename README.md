@@ -16,11 +16,6 @@ Assalamualaikum Everyone!
 
 _____
 
-[![License](https://img.shields.io/github/license/shahadat-sahu/SHAHADAT-CHAT-BOT)](https://github.com/shahadat-sahu/SHAHADAT-CHAT-BOT/blob/main/LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/shahadat-sahu/SHAHADAT-CHAT-BOT)](https://github.com/shahadat-sahu/SHAHADAT-CHAT-BOT/issues)
-[![GitHub forks](https://img.shields.io/github/forks/shahadat-sahu/SHAHADAT-CHAT-BOT)](https://github.com/shahadat-sahu/SHAHADAT-CHAT-BOT/network)
-[![GitHub stars](https://img.shields.io/github/stars/shahadat-sahu/SHAHADAT-CHAT-BOT)](https://github.com/shahadat-sahu/SHAHADAT-CHAT-BOT/stargazers)
-[![Last commit](https://img.shields.io/github/last-commit/shahadat-sahu/SHAHADAT-CHAT-BOT)](https://github.com/shahadat-sahu/SHAHADAT-CHAT-BOT/commits)
 _______
 
 ### <br>   ❖ DEPLOY_WORKFLOWS ❖
@@ -61,13 +56,6 @@ jobs:
       env:
         PORT: 8080
       run: npm start
-```
-
-___
-
-## HOW TO RUN THIS CHAT BOT 🚀
-
-[![Watch the Video](https://i.imgur.com/EKtftdm.png)](https://youtu.be/blg0O7IgcrA?si=vpz42AK06uIblLN9)
 
 Click the image above to watch the step-by-step tutorial on YouTube.
 
@@ -158,15 +146,15 @@ ___
 
 ## 👨‍💻 **ABOUT THE DEVELOPER**  
   
-**Name:** **`SHAHADAT ISLAM`**  
-**Nice Name:** **`SA HU`**  
+**Name:** **`বৃষ্টি দাস`**  
+**Nice Name:** **`বৃষ্টি`**  
 **Profession:** **`STUDENT & CHATBOT DEVELOPER`**  
-**Location:** **`KHAGRACHARI, BANGLADESH`**  
+**Location:** **`Khulna , BANGLADESH`**  
 
 ### 📞 **CONTACT INFORMATION**  
-- **WhatsApp:** **[01882 333052](https://wa.me/+8801882333052)**  
-- **Facebook:** **[Facebook ID](https://facebook.com/100001039692046)**  
-- **Messenger:** **[Message Me](https://m.me/100001039692046)**  
+- **WhatsApp:** **[01894195545](https://wa.me/+8801894195545)**  
+- **Facebook:** **[Facebook ID](https://www.facebook.com/Brsti28998)**  
+- **Messenger:** **[Message Me](https://m.me/Brsti28998)**  
 
 ### 🚀 **DEVELOPMENT APPROACH**  
 - 💻 **Copy-paste techniques with customizations**  
@@ -189,7 +177,7 @@ Please do not disturb the admin unless you have a special need. Thank you!
 <p align="center">
   <a href="https://chat.whatsapp.com/BfoNOzVBODtEYPCoKxsBbf🫶">
     <img alt="WhatsApp" 
-href=https://whatsapp.com/channel/0029Vb7UQUH8V0tmC5Yvy121">
+href="https://m.me/Brsti28998">
     <img alt="Messenger" src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white">
   </a>
 </p>
@@ -214,6 +202,6 @@ href=https://whatsapp.com/channel/0029Vb7UQUH8V0tmC5Yvy121">
 <p align="center">
   <a href="https://www.facebook.com/Brsti28998"><img src="https://img.icons8.com/fluency/48/000000/facebook.png" alt="Facebook"></a>
   <a 
-
+---
 
 **I hope you enjoy my fork! Thank you for supporting the cyber chat bot community!**
