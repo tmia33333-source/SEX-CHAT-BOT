@@ -3,7 +3,7 @@ module.exports.config = {
   version: "1.0.0",
   hasPermission: 0,
   credits: "বৃষ্টি",
-  description: "Random fun reply when someone says Bot",
+  description: "Random fun reply when someone says বৃষ্টি",
   commandCategory: "Fun",
   usages: "[বৃষ্টি]",
   cooldowns: 2,
@@ -112,6 +112,6 @@ const বৃষ্টিReplies = [
 ];
 
 module.exports.run = async function ({ api, event }) {
-  const reply = botReplies[Math.floor(Math.random() * botReplies.length)];
+  const reply = বৃষ্টিReplies[Math.floor(Math.random() * বৃষ্টিtReplies.length)];
   api.sendMessage(reply, event.threadID, event.messageID);
 };
