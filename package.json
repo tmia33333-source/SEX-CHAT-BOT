@@ -1,7 +1,7 @@
 {
-  "name": "shahadat-chat-bot",
+  "name": "বৃষ্টি",
   "version": "10.0.0",
-  "description": "Made By SHAHADAT SAHU",
+  "description": "বৃষ্টি দাস",
   "main": "Main.js",
   "engines": {
     "node": "20.x",
@@ -19,15 +19,15 @@
   "keywords": [
     "bot",
     "facebook",
-    "shahadatproject",
+    "বৃষ্টিproject",
     "messenger",
     "javascript",
     "shadat",
     "ullash",
-    "shahadat sahu",
-    "shahadat chat bot"
+    "বৃষ্টি দাস",
+    "বৃষ্টি"
   ],
-  "author": "SHAHADAT SAHU",
+  "author": "বৃষ্টি দাস",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/shahadat-sahu/SHAHADAT-CHAT-BOT/issues"
