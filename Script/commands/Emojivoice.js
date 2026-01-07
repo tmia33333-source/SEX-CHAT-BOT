@@ -2,8 +2,8 @@ module.exports.config = {
  name: "emoji_voice",
  version: "10.0",
  hasPermssion: 0,
- credits: "𝗦𝗵𝗮𝗵𝗮𝗱𝗮𝘁 𝗦𝗔𝗛𝗨",
- description: "Emoji দিলে কিউট মেয়ের ভয়েস পাঠাবে 😍",
+ credits: "বৃষ্টি",
+ description: "Emoji দিলে ভয়েস পাঠাবে 😍",
  commandCategory: "noprefix",
  usages: "😘🥰😍",
  cooldowns: 5
