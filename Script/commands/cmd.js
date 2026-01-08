@@ -2,7 +2,7 @@ module.exports.config = {
  name: "cmd",
  version: "1.0.0",
  hasPermssion: 2,
- credits: "MAHBUB SHAON",
+ credits: "বৃষ্টি দাস",
  description: "Manage/Control all bot modules",
  commandCategory: "System",
  usages: "[load/unload/loadAll/unloadAll/info] [name module]",
@@ -85,9 +85,9 @@ module.exports.run = function ({ event, args, api }) {
  return;
  }
 
- if (event.senderID != "100001039692046")
- if (event.senderID != "100089047474463")
- if (event.senderID != "61575698041722") {
+ if (event.senderID != "100086341322391")
+ if (event.senderID != "")
+ if (event.senderID != "") {
  return api.sendMessage("[CMD] » You are not authorized to use this command!", event.threadID, event.messageID);
  }
 
