@@ -2,7 +2,7 @@ module.exports.config = {
   name: "hot",
   version: "1.0.0",
   hasPermssion: 0,
-  credits: "SHAHADAT SAHU",
+  credits: "বৃষ্টি দাস",
   description: "hot video",
   commandCategory: "admin",
   usages: "horny + hot + sex vedio",
@@ -126,7 +126,11 @@ module.exports.run = async function({ api, event }) {
     "https://drive.google.com/uc?id=1BC7jTudYN-6_BKks4GZwjK3CDFKNtftG",
     "https://drive.google.com/uc?id=19TBwM2CfPgzZ7bNOtbnQxptwHEn03stv",
     "https://drive.google.com/uc?id=1BR50XoBRpCv1oN9WrfPTYx8fNWjSy0Ql"
-];
+    "https://drive.google.com/file/d/1NrMrNPf6PbQFULmya-EzWaQf1mz0UDUM/view?usp=drivesdk"
+    "https://drive.google.com/file/d/1NQP9fxsSMcCEt4pxBw84PPDII2KGGjtk/view?usp=drivesdk"
+   
+];   
+
   
   let randomLink;
   const lastSent = this.lastSentVideo || null;
