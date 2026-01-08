@@ -1,8 +1,8 @@
 module.exports.config = {
- name: "bf",
+ name: "gf",
  version: "7.3.1",
  hasPermssion: 0,
- credits: "SA HU", 
+ credits: "বৃষ্টি", 
  description: "Get Pair From Mention",
  commandCategory: "img",
  usages: "[@mention]",
@@ -76,7 +76,7 @@ module.exports.run = async function ({ event, api, args }) {
  "╚═════❖••° °••❖═════╝\n\n" +
  " ✶⊶⊷⊷⊷⊷❍⊶⊷⊷⊷⊷✶\n" +
  " 👑 এই নে! এখন থেকে শুধু তোরই ❤️\n" +
- " 💌 তোর একমাত্র বয়ফ্রেন্ড হাজির 🩷\n" +
+ " 💌 তোর একমাত্র গার্লফ্রেন্ড বৃষ্টি 🩷\n" +
  " ✶⊶⊷⊷⊷⊷❍⊶⊷⊷⊷⊷✶",
  attachment: fs.createReadStream(path)
  }, threadID, () => fs.unlinkSync(path), messageID));
