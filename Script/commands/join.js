@@ -4,7 +4,7 @@ module.exports.config = {
  name: "join",
  version: "2.1.0",
  hasPermssion: 2,
- credits: "Shahadat Sahu",
+ credits: "বৃষ্টি দাস",
  description: "Join one or all bot groups using number or 'add all'",
  commandCategory: "system",
  usages: "",
