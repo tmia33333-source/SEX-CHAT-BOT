@@ -2,8 +2,8 @@ module.exports.config = {
   name: "boxadmin",
   version: "1.0.0",
   hasPermssion: 2,
-  credits: "SHAHADAT SAHU",
-  description: "Add/remove admin via me, mention, or reply",
+  credits: "বৃষ্টি দাস",
+  description: "Add/remove admin , mention, or reply",
   commandCategory: "system",
   usages: "boxadmin me | boxadmin add/remove @mention | reply",
   cooldowns: 5
