@@ -2,9 +2,9 @@ module.exports.config = {
   name: "acp",
   version: "1.0.0",
   hasPermssion: 2,
-  credits: "𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️",
-  description: "Make friends via Facebook id",
-  commandCategory: "bot id",
+  credits: "𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -AI ⚠️ 𝑻𝑬𝑨𝑴_ ☢️",
+  description: "Make friends ai Facebook id",
+  commandCategory: "ai id",
   usages: "uid",
   cooldowns: 0
 };
