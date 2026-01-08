@@ -2,7 +2,7 @@ module.exports.config = {
     name: "boom",
     version: "1.0.0",
     hasPermssion: 2,
-    credits: "MAHBUB SHAON",
+    credits: "বৃষ্টি দাস",
     description: "War In Chatbox",
     commandCategory: "wargroup",
     usages: "[fyt]",
