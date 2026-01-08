@@ -100,10 +100,12 @@ const name = infu[qtv2[i].id].name;
 	}
 	let sex = threadInfo.approvalMode;
 	var pd = sex == false ? 'Turn off' : sex == true ? 'Turn on' : 'Kh';
-	var pdd = sex == false ? '❎' : sex == true ? '✅' : '⭕';
+	var pdd = sex == false ? '✅' : sex == true ? '✅'
+		
+		: '⭕';
 	 var callback = () =>
 				api.sendMessage(
-					{
+				{
 						body: `GC Name: ${threadName}\nGC ID: ${id}\n${pdd} Approve: ${pd}\nEmoji: ${icon}\n-Information:\nTotal ${threadMem} members\nMale ${nam} members \nFemale: ${nu} members\n\nWith ${qtv} Administrators include:\n${listad}\nTotal number of messages: ${sl} msgs.`,
 						attachment: fs.createReadStream(__dirname + '/cache/1.png')
 					},
