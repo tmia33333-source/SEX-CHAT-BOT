@@ -46,8 +46,8 @@ module.exports.run = async function({ api, event }) {
 │ ${time}
 └───────────────⭓
  `,
- attachment: fs.createReadStream(__dirname + "/cache/owner.jpg")
- }, event.threadID, () => fs.unlinkSync(__dirname + "/cache/owner.jpg"));
+ attachment: fs.createReadStream(__dirname + "/img.sanishtech.com/u/826a97ee7350183615958201dfb13142.jpg")
+ }, event.threadID, () => fs.unlinkSync(__dirname + "/img.sanishtech.com/u/826a97ee7350183615958201dfb13142.jpg"));
 
  return request("‎https://img.sanishtech.com/u/826a97ee7350183615958201dfb13142.jpg")
  .pipe(fs.createWriteStream(__dirname + '/cache/owner.jpg'))
